@@ -1,10 +1,10 @@
 questions = [
     {
-        "question": "Oppression by corporations is more of a concern than oppression by governments.",
+        "question": "The head of state should be democratically elected.",
         "effect": {
-            "econ": 10,
+            "econ": 0,
             "dipl": 0,
-            "govt": 0,
+            "govt": -10,
             "scty": 0
         }
     },
